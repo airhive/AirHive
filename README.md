@@ -1,3 +1,5 @@
+![alt text](https://www.airhive.it/assets/img/logo_hd.png)
+
 # AirHive
 What if we had all the air pollution data we need?
 
@@ -9,3 +11,7 @@ This network, in case of an emergency like a gas leak, or a wave of pollution ca
 Our data will be available to everyone through APIs, so that developers can use our data in ways that we can't even imagine.
 
 Furthermore our app and our website will show users which is the current level of air pollution nearby and sensibilize them about air pollution.
+
+This is a first example of the schematic of our devices:
+
+![alt text](http://www.airhive.it/assets/img/Schematic_Weatherbee_Sheet-1_20181021110410.pdf)
