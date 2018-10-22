@@ -14,4 +14,4 @@ Furthermore our app and our website will show users which is the current level o
 
 This is a first example of the schematic of our devices:
 
-![alt text](http://www.airhive.it/assets/img/Schematic_Weatherbee_Sheet-1_20181021110410.pdf)
+![alt text](https://www.airhive.it/assets/img/Schematic_Weatherbee_Sheet-1_20181021110410-1.png)
