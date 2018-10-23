@@ -21,6 +21,6 @@ Furthermore our app and our website will show users which is the current level o
 ![alt text](https://www.airhive.it/assets/img/Air%20Hive%20Presentazione/Air%20Hive%20Presentazione.013.jpeg)
 ![alt text](https://www.airhive.it/assets/img/Air%20Hive%20Presentazione/Air%20Hive%20Presentazione.018.jpeg)
 
-This is a first example of the schematic of our devices:
-
+This is the first sketch (designed in two hours) of the schematic of our devices.
+We plan to improve it drastically in the future.
 ![alt text](https://www.airhive.it/assets/img/Schematic_Weatherbee_Sheet-1_20181021110410-1.png)
